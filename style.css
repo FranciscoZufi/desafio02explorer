@@ -1,0 +1,69 @@
+*{
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: medium;
+  line-height: 30px;
+  margin-bottom: 32px;
+  color: #3f3d56;
+}
+
+#hero {
+  width: 592px;
+  margin: 0 auto 72px;
+}
+#ero img{
+  margin-bottom: 72px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 0;
+  font-size: 15px;
+  line-height: 22px;
+}
+span {
+  color: #EE24FF
+}
+#empresa {
+  color: #828282
+}
+strong {
+  color: #3f3d56
+}
+p{
+  color: #7d7987;
+  font-size: 14px;
+  line-height: 28px;
+}
+#footer {
+  font-size: 14px;
+  line-height: 28px;
+  }
+a {
+  color: #3f3d56;
+}
+
+#footer a + a{
+  margin-left: 28px;
+}
+
+#line {
+  width: 568px;
+  height: 0px;
+  border: 1px #eceff2 solid;
+  margin: 0 auto 8px;
+}
+
+#wave {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
